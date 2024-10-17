@@ -4,7 +4,7 @@
 This project aims to transform an e-commerce dataset to gain insights into customer purchasing behavior. The goal is to segment customers into clusters to enhance marketing strategies. Key tasks include data cleaning, feature engineering, and clustering.
 
 ## Objective
-- Analyze and clean transaction data.
+- Analyse and clean transaction data.
 - Engineer new features such as customer expenditure.
 - Segment customers using clustering algorithms.
 
